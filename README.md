@@ -20,3 +20,13 @@ Areas with the highest number of incident reports were University City and Steel
 This graph proved interesting as it further supported the idea that Covid did cause a reduced number of reported incidents, as 2020 saw a decline within all divisions.
 
 I became interested in seeing how much incident reports changed annually. I created a dataframe to display the yearly changes using Pandas that would calculate the differences in the number of reports between each year. I also created a line chart using MatPlotLib, Pandas, and Colormap from MatPlotLib. Colormap was new to me, but I was searching for a way to make the visualization clearer to understand by giving each division their own color in the displayed graph. This graph also displayed very well the decline in reports in 2020 from 2019 and the mostly gradual rise again in 2021.
+
+Sources
+The City of Charlotte Incident Report Dataset
+https://data.charlottenc.gov/datasets/charlotte::cmpd-incidents-1/about
+
+Spectrum News 1: “Timeline: A look at COVID in N.C. over the last two years of the pandemic”
+https://spectrumlocalnews.com/nc/charlotte/news/2022/03/11/timeline--a-look-at-covid-in-n-c--over-the-last-two-years-of-the-pandemic
+
+Charlotte Crime Statistics Report: 2023 1st Quarter Public Safety Report
+https://www.charlottenc.gov/cmpd/News-Resources/Newsroom/Crime-Statistics-Report
