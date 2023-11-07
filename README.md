@@ -16,7 +16,7 @@ This chart was produced by changing values of 72 unique crime types and generali
 ### Efficiency/Case Clear Charts
 To generate these charts I took the reported dates of the end of the incident and the case closing date for all closed cases in the data set, and used a funtion to subtract them and find the difference in number of days. Then I took a mean and median of the data grouped by the precinct to get an idea of how the data was distributed for each precinct. Each precinct has a skewed right distribution showing that a few outlier cases that take a long time to clear are fairly commonplace for the CMPD. Among the precincts, 'Airport' has by far the fastest closing times in terms of mean and median. 'South' has the highest median closing time, but a relatively normal average showing it has the closest to a normal distrobution. 'University City' has the highest average at nearly double the next hightest number of days, showing that it must have some fairly extreme outliers compared to its other precincts.
 
-##Project 1- Kyndall's Analysis
+## Project 1- Kyndall's Analysis
 
 In our project we decided to search for a dataset relating to crime. We were able to locate the Charlotte Mecklenburg Police Department's incident reports from 2015 to present day. We then came up with a list of questions for our hypothesis from looking over that data. 
 When glancing over the data we got a pretty good indication that Covid affected many different types of incidents in Charlotte and hereafter. We were able to effectivly clean up unusable data in order to make our dataset into something we could loop through to figure out the questions to our dataset.
