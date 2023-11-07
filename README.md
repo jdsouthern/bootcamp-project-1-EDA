@@ -1,4 +1,4 @@
-# Analysis -- Slides in <Crime Rates in Charlotte.pdf>
+# Analysis -- Slides in Crime Rates in Charlotte.pdf
 
 ## Levar McKnight
 
